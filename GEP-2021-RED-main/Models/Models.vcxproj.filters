@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Text Include="READ_ME.txt" />
+    <Text Include="terrainTex.txt">
+      <Filter>Models</Filter>
+    </Text>
+    <Text Include="cube.txt">
+      <Filter>Models</Filter>
+    </Text>
+    <Text Include="shell.txt">
+      <Filter>Models</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MeshContentTask Include="Bird\BirdModelV1.fbx">
+      <Filter>Models</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="Table\table.FBX">
+      <Filter>Models</Filter>
+    </MeshContentTask>
+    <MeshContentTask Include="Vase\JEMINA vase -up.fbx">
+      <Filter>Models</Filter>
+    </MeshContentTask>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Models">
+      <UniqueIdentifier>{061ec0e8-5405-4bd4-a0ed-78dc6e8b460f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures">
+      <UniqueIdentifier>{9344f178-2c30-4274-bd6c-bd7687a2ddbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{09778073-b8eb-4518-a498-83f9b6107dda}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ImageContentTask Include="white.jpg">
+      <Filter>Textures</Filter>
+    </ImageContentTask>
+    <ImageContentTask Include="grass.jpg">
+      <Filter>Textures</Filter>
+    </ImageContentTask>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="shader.fx">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

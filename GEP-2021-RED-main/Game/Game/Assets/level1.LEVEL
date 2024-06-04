@@ -1,0 +1,5847 @@
+Level: Untitled
+Entities:
+  - Entity: 50
+    TransformComponent:
+      Position: [576, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 188
+    TransformComponent:
+      Position: [832, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 1
+    TransformComponent:
+      Position: [448, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 53
+    TransformComponent:
+      Position: [960, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 2
+    TransformComponent:
+      Position: [576, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 52
+    TransformComponent:
+      Position: [832, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 3
+    TransformComponent:
+      Position: [704, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 55
+    TransformComponent:
+      Position: [1216, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 4
+    TransformComponent:
+      Position: [832, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 54
+    TransformComponent:
+      Position: [1088, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 5
+    TransformComponent:
+      Position: [960, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 57
+    TransformComponent:
+      Position: [448, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 6
+    TransformComponent:
+      Position: [1088, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 48
+    TransformComponent:
+      Position: [1344, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 56
+    TransformComponent:
+      Position: [1344, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 7
+    TransformComponent:
+      Position: [1216, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 49
+    TransformComponent:
+      Position: [448, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 59
+    TransformComponent:
+      Position: [704, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 181
+    TransformComponent:
+      Position: [960, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 8
+    TransformComponent:
+      Position: [1344, -2940]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 46
+    TransformComponent:
+      Position: [1088, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 58
+    TransformComponent:
+      Position: [576, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 180
+    TransformComponent:
+      Position: [832, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 9
+    TransformComponent:
+      Position: [448, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 47
+    TransformComponent:
+      Position: [1216, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 61
+    TransformComponent:
+      Position: [960, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 10
+    TransformComponent:
+      Position: [576, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 60
+    TransformComponent:
+      Position: [832, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 11
+    TransformComponent:
+      Position: [704, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 63
+    TransformComponent:
+      Position: [1216, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 12
+    TransformComponent:
+      Position: [832, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 62
+    TransformComponent:
+      Position: [1088, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 13
+    TransformComponent:
+      Position: [960, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 14
+    TransformComponent:
+      Position: [1088, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 64
+    TransformComponent:
+      Position: [1344, -2044]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 15
+    TransformComponent:
+      Position: [1216, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 16
+    TransformComponent:
+      Position: [1344, -2812]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 17
+    TransformComponent:
+      Position: [448, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 18
+    TransformComponent:
+      Position: [576, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 19
+    TransformComponent:
+      Position: [704, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 20
+    TransformComponent:
+      Position: [832, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 21
+    TransformComponent:
+      Position: [960, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 22
+    TransformComponent:
+      Position: [1088, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 23
+    TransformComponent:
+      Position: [1216, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 24
+    TransformComponent:
+      Position: [1344, -2684]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 25
+    TransformComponent:
+      Position: [448, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 26
+    TransformComponent:
+      Position: [576, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 27
+    TransformComponent:
+      Position: [704, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 28
+    TransformComponent:
+      Position: [832, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 29
+    TransformComponent:
+      Position: [960, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 30
+    TransformComponent:
+      Position: [1088, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 31
+    TransformComponent:
+      Position: [1216, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 32
+    TransformComponent:
+      Position: [1344, -2556]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 33
+    TransformComponent:
+      Position: [448, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 199
+    TransformComponent:
+      Position: [1216, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 34
+    TransformComponent:
+      Position: [576, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 198
+    TransformComponent:
+      Position: [1088, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 35
+    TransformComponent:
+      Position: [704, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 36
+    TransformComponent:
+      Position: [832, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 37
+    TransformComponent:
+      Position: [960, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 195
+    TransformComponent:
+      Position: [704, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 38
+    TransformComponent:
+      Position: [1088, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 194
+    TransformComponent:
+      Position: [576, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 39
+    TransformComponent:
+      Position: [1216, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 187
+    TransformComponent:
+      Position: [704, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 40
+    TransformComponent:
+      Position: [1344, -2428]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 186
+    TransformComponent:
+      Position: [576, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 41
+    TransformComponent:
+      Position: [448, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 185
+    TransformComponent:
+      Position: [448, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 42
+    TransformComponent:
+      Position: [576, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 184
+    TransformComponent:
+      Position: [1344, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 43
+    TransformComponent:
+      Position: [704, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 183
+    TransformComponent:
+      Position: [1216, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 44
+    TransformComponent:
+      Position: [832, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 182
+    TransformComponent:
+      Position: [1088, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 45
+    TransformComponent:
+      Position: [960, -2300]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 51
+    TransformComponent:
+      Position: [704, -2172]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 65
+    TransformComponent:
+      Position: [448, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 66
+    TransformComponent:
+      Position: [576, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 67
+    TransformComponent:
+      Position: [704, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 68
+    TransformComponent:
+      Position: [832, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 69
+    TransformComponent:
+      Position: [960, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 70
+    TransformComponent:
+      Position: [1088, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 71
+    TransformComponent:
+      Position: [1216, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 72
+    TransformComponent:
+      Position: [1344, -1916]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 73
+    TransformComponent:
+      Position: [448, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 74
+    TransformComponent:
+      Position: [576, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 75
+    TransformComponent:
+      Position: [704, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 76
+    TransformComponent:
+      Position: [832, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 77
+    TransformComponent:
+      Position: [960, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 78
+    TransformComponent:
+      Position: [1088, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 79
+    TransformComponent:
+      Position: [1216, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 80
+    TransformComponent:
+      Position: [1344, -1788]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 81
+    TransformComponent:
+      Position: [448, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 82
+    TransformComponent:
+      Position: [576, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 83
+    TransformComponent:
+      Position: [704, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 84
+    TransformComponent:
+      Position: [832, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 85
+    TransformComponent:
+      Position: [960, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 86
+    TransformComponent:
+      Position: [1088, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 87
+    TransformComponent:
+      Position: [1216, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 88
+    TransformComponent:
+      Position: [1344, -1660]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 89
+    TransformComponent:
+      Position: [448, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 90
+    TransformComponent:
+      Position: [576, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 91
+    TransformComponent:
+      Position: [704, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 92
+    TransformComponent:
+      Position: [832, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 93
+    TransformComponent:
+      Position: [960, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 94
+    TransformComponent:
+      Position: [1088, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 95
+    TransformComponent:
+      Position: [1216, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 96
+    TransformComponent:
+      Position: [1344, -1532]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 97
+    TransformComponent:
+      Position: [448, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 98
+    TransformComponent:
+      Position: [576, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 99
+    TransformComponent:
+      Position: [704, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 258
+    TransformComponent:
+      Position: [1293, 272]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 765
+      SourceRectRight: 631
+      SourceRectBottom: 873
+      SourceRectLeft: 530
+      Origin: [50.5, 54]
+  - Entity: 100
+    TransformComponent:
+      Position: [832, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 259
+    TransformComponent:
+      Position: [1318, 295]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.800000012
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 765
+      SourceRectRight: 631
+      SourceRectBottom: 873
+      SourceRectLeft: 530
+      Origin: [50.5, 54]
+  - Entity: 101
+    TransformComponent:
+      Position: [960, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 102
+    TransformComponent:
+      Position: [1088, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 103
+    TransformComponent:
+      Position: [1216, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 104
+    TransformComponent:
+      Position: [1344, -1404]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 105
+    TransformComponent:
+      Position: [448, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 106
+    TransformComponent:
+      Position: [576, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 107
+    TransformComponent:
+      Position: [704, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 250
+    TransformComponent:
+      Position: [576, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 108
+    TransformComponent:
+      Position: [832, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 251
+    TransformComponent:
+      Position: [704, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 109
+    TransformComponent:
+      Position: [960, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 110
+    TransformComponent:
+      Position: [1088, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 111
+    TransformComponent:
+      Position: [1216, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 112
+    TransformComponent:
+      Position: [1344, -1276]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 113
+    TransformComponent:
+      Position: [448, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 114
+    TransformComponent:
+      Position: [576, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 115
+    TransformComponent:
+      Position: [704, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 116
+    TransformComponent:
+      Position: [832, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 117
+    TransformComponent:
+      Position: [960, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 118
+    TransformComponent:
+      Position: [1088, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 119
+    TransformComponent:
+      Position: [1216, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 317
+    TransformComponent:
+      Position: [1218, -913]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 129
+      SourceRectRight: 255
+      SourceRectBottom: 255
+      SourceRectLeft: 129
+      Origin: [63, 63]
+    EnvironmentTag:
+      {}
+  - Entity: 278
+    TransformComponent:
+      Position: [1345, -789]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 120
+    TransformComponent:
+      Position: [1344, -1148]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 316
+    TransformComponent:
+      Position: [711, -1883]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.889999986
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 794
+      SourceRectRight: 218
+      SourceRectBottom: 872
+      SourceRectLeft: 165
+      Origin: [26.5, 39]
+    EnvironmentTag:
+      {}
+  - Entity: 279
+    TransformComponent:
+      Position: [1217, -789]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 121
+    TransformComponent:
+      Position: [448, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 315
+    TransformComponent:
+      Position: [711, -1672]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.889999986
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 794
+      SourceRectRight: 218
+      SourceRectBottom: 872
+      SourceRectLeft: 165
+      Origin: [26.5, 39]
+    EnvironmentTag:
+      {}
+  - Entity: 122
+    TransformComponent:
+      Position: [576, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 123
+    TransformComponent:
+      Position: [704, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 313
+    TransformComponent:
+      Position: [668, -1024]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.889999986
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 794
+      SourceRectRight: 218
+      SourceRectBottom: 872
+      SourceRectLeft: 165
+      Origin: [26.5, 39]
+    EnvironmentTag:
+      {}
+  - Entity: 124
+    TransformComponent:
+      Position: [832, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 312
+    TransformComponent:
+      Position: [666, -1284]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.889999986
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 794
+      SourceRectRight: 218
+      SourceRectBottom: 872
+      SourceRectLeft: 165
+      Origin: [26.5, 39]
+    EnvironmentTag:
+      {}
+  - Entity: 125
+    TransformComponent:
+      Position: [960, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 311
+    TransformComponent:
+      Position: [668, -1478]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.889999986
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 794
+      SourceRectRight: 218
+      SourceRectBottom: 872
+      SourceRectLeft: 165
+      Origin: [26.5, 39]
+    EnvironmentTag:
+      {}
+  - Entity: 126
+    TransformComponent:
+      Position: [1088, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 310
+    TransformComponent:
+      Position: [696, -2021]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.889999986
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 256
+      SourceRectRight: 1922
+      SourceRectBottom: 392
+      SourceRectLeft: 1785
+      Origin: [68.5, 68]
+    EnvironmentTag:
+      {}
+  - Entity: 127
+    TransformComponent:
+      Position: [1216, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 270
+    TransformComponent:
+      Position: [576, -406]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 128
+    TransformComponent:
+      Position: [1344, -1020]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 271
+    TransformComponent:
+      Position: [448, -406]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 129
+    TransformComponent:
+      Position: [448, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 268
+    TransformComponent:
+      Position: [686, 11]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 686
+      SourceRectRight: 128
+      SourceRectBottom: 733
+      SourceRectLeft: 0
+      Origin: [64, 23.5]
+  - Entity: 130
+    TransformComponent:
+      Position: [576, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 269
+    TransformComponent:
+      Position: [448, -278]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 131
+    TransformComponent:
+      Position: [704, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 132
+    TransformComponent:
+      Position: [832, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 133
+    TransformComponent:
+      Position: [960, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 134
+    TransformComponent:
+      Position: [1088, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 135
+    TransformComponent:
+      Position: [1216, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 136
+    TransformComponent:
+      Position: [1344, -892]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 137
+    TransformComponent:
+      Position: [448, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 260
+    TransformComponent:
+      Position: [649, 679]
+      Scale: [0.75, 0.800000012]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 787
+      SourceRectRight: 622
+      SourceRectBottom: 873
+      SourceRectLeft: 521
+      Origin: [50.5, 43]
+  - Entity: 138
+    TransformComponent:
+      Position: [576, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 261
+    TransformComponent:
+      Position: [615, 714]
+      Scale: [0.75, 0.800000012]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 787
+      SourceRectRight: 622
+      SourceRectBottom: 873
+      SourceRectLeft: 521
+      Origin: [50.5, 43]
+  - Entity: 139
+    TransformComponent:
+      Position: [704, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 218
+    TransformComponent:
+      Position: [576, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 140
+    TransformComponent:
+      Position: [832, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 219
+    TransformComponent:
+      Position: [704, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 141
+    TransformComponent:
+      Position: [960, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 142
+    TransformComponent:
+      Position: [1088, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 143
+    TransformComponent:
+      Position: [1216, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 144
+    TransformComponent:
+      Position: [1344, -764]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 145
+    TransformComponent:
+      Position: [448, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 146
+    TransformComponent:
+      Position: [576, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 147
+    TransformComponent:
+      Position: [704, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 210
+    TransformComponent:
+      Position: [576, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 148
+    TransformComponent:
+      Position: [832, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 211
+    TransformComponent:
+      Position: [704, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 149
+    TransformComponent:
+      Position: [960, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 208
+    TransformComponent:
+      Position: [1344, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 768
+      SourceRectRight: 640
+      SourceRectBottom: 896
+      SourceRectLeft: 512
+      Origin: [64, 64]
+  - Entity: 150
+    TransformComponent:
+      Position: [1088, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 209
+    TransformComponent:
+      Position: [448, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 151
+    TransformComponent:
+      Position: [1216, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 152
+    TransformComponent:
+      Position: [1344, -636]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 153
+    TransformComponent:
+      Position: [448, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 154
+    TransformComponent:
+      Position: [576, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 155
+    TransformComponent:
+      Position: [704, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 156
+    TransformComponent:
+      Position: [832, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 157
+    TransformComponent:
+      Position: [960, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 200
+    TransformComponent:
+      Position: [1344, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 158
+    TransformComponent:
+      Position: [1088, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 201
+    TransformComponent:
+      Position: [448, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 159
+    TransformComponent:
+      Position: [1216, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 160
+    TransformComponent:
+      Position: [1344, -508]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 161
+    TransformComponent:
+      Position: [448, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 162
+    TransformComponent:
+      Position: [576, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 163
+    TransformComponent:
+      Position: [704, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 164
+    TransformComponent:
+      Position: [832, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 165
+    TransformComponent:
+      Position: [960, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 166
+    TransformComponent:
+      Position: [1088, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 167
+    TransformComponent:
+      Position: [1216, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 168
+    TransformComponent:
+      Position: [1344, -380]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 169
+    TransformComponent:
+      Position: [448, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 170
+    TransformComponent:
+      Position: [576, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 171
+    TransformComponent:
+      Position: [704, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 172
+    TransformComponent:
+      Position: [832, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 173
+    TransformComponent:
+      Position: [960, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 174
+    TransformComponent:
+      Position: [1088, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 175
+    TransformComponent:
+      Position: [1216, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 176
+    TransformComponent:
+      Position: [1344, -252]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 177
+    TransformComponent:
+      Position: [448, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 178
+    TransformComponent:
+      Position: [576, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 179
+    TransformComponent:
+      Position: [704, -124]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 189
+    TransformComponent:
+      Position: [960, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 190
+    TransformComponent:
+      Position: [1088, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 191
+    TransformComponent:
+      Position: [1216, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 192
+    TransformComponent:
+      Position: [1344, 4]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 193
+    TransformComponent:
+      Position: [448, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 196
+    TransformComponent:
+      Position: [832, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 197
+    TransformComponent:
+      Position: [960, 132]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 202
+    TransformComponent:
+      Position: [576, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 203
+    TransformComponent:
+      Position: [704, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 204
+    TransformComponent:
+      Position: [832, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 205
+    TransformComponent:
+      Position: [960, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 768
+      SourceRectRight: 768
+      SourceRectBottom: 896
+      SourceRectLeft: 640
+      Origin: [64, 64]
+  - Entity: 206
+    TransformComponent:
+      Position: [1088, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 207
+    TransformComponent:
+      Position: [1216, 260]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 212
+    TransformComponent:
+      Position: [832, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 213
+    TransformComponent:
+      Position: [960, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 214
+    TransformComponent:
+      Position: [1088, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 215
+    TransformComponent:
+      Position: [1216, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 216
+    TransformComponent:
+      Position: [1344, 388]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 217
+    TransformComponent:
+      Position: [448, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 640
+      SourceRectRight: 256
+      SourceRectBottom: 768
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 220
+    TransformComponent:
+      Position: [832, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 221
+    TransformComponent:
+      Position: [960, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 222
+    TransformComponent:
+      Position: [1088, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 223
+    TransformComponent:
+      Position: [1216, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 224
+    TransformComponent:
+      Position: [1344, 516]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 225
+    TransformComponent:
+      Position: [448, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 226
+    TransformComponent:
+      Position: [576, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 227
+    TransformComponent:
+      Position: [704, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 228
+    TransformComponent:
+      Position: [832, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 229
+    TransformComponent:
+      Position: [960, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 256
+      SourceRectBottom: 128
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 230
+    TransformComponent:
+      Position: [1088, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 231
+    TransformComponent:
+      Position: [1216, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 232
+    TransformComponent:
+      Position: [1344, 644]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 233
+    TransformComponent:
+      Position: [448, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 234
+    TransformComponent:
+      Position: [576, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 235
+    TransformComponent:
+      Position: [704, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 236
+    TransformComponent:
+      Position: [832, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 237
+    TransformComponent:
+      Position: [960, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 640
+      SourceRectRight: 256
+      SourceRectBottom: 768
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 238
+    TransformComponent:
+      Position: [1088, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 239
+    TransformComponent:
+      Position: [1216, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 240
+    TransformComponent:
+      Position: [1344, 772]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 241
+    TransformComponent:
+      Position: [448, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 242
+    TransformComponent:
+      Position: [576, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 243
+    TransformComponent:
+      Position: [704, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 244
+    TransformComponent:
+      Position: [832, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 245
+    TransformComponent:
+      Position: [960, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 246
+    TransformComponent:
+      Position: [1088, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 247
+    TransformComponent:
+      Position: [1216, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 248
+    TransformComponent:
+      Position: [1344, 900]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 249
+    TransformComponent:
+      Position: [448, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 252
+    TransformComponent:
+      Position: [832, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 640
+      SourceRectRight: 256
+      SourceRectBottom: 768
+      SourceRectLeft: 128
+      Origin: [64, 64]
+  - Entity: 253
+    TransformComponent:
+      Position: [960, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 254
+    TransformComponent:
+      Position: [1088, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 255
+    TransformComponent:
+      Position: [1216, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 640
+      SourceRectRight: 128
+      SourceRectBottom: 768
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 256
+    TransformComponent:
+      Position: [1344, 1028]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 1
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 0
+      SourceRectRight: 128
+      SourceRectBottom: 128
+      SourceRectLeft: 0
+      Origin: [64, 64]
+  - Entity: 257
+    TransformComponent:
+      Position: [592, 65]
+      Scale: [1, 1.05999994]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 765
+      SourceRectRight: 798
+      SourceRectBottom: 873
+      SourceRectLeft: 661
+      Origin: [68.5, 54]
+  - Entity: 262
+    TransformComponent:
+      Position: [1073, 168]
+      Scale: [1.20000005, 1.10000002]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 662
+      SourceRectRight: 497
+      SourceRectBottom: 750
+      SourceRectLeft: 395
+      Origin: [51, 44]
+  - Entity: 263
+    TransformComponent:
+      Position: [1104, 224]
+      Scale: [0.75, 0.800000012]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 662
+      SourceRectRight: 497
+      SourceRectBottom: 750
+      SourceRectLeft: 395
+      Origin: [51, 44]
+  - Entity: 264
+    TransformComponent:
+      Position: [1029, 211]
+      Scale: [1.20000005, 1.20000005]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.800000012
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 662
+      SourceRectRight: 497
+      SourceRectBottom: 750
+      SourceRectLeft: 395
+      Origin: [51, 44]
+  - Entity: 265
+    TransformComponent:
+      Position: [560, 679]
+      Scale: [1.20000005, 1.20000005]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 662
+      SourceRectRight: 497
+      SourceRectBottom: 750
+      SourceRectLeft: 395
+      Origin: [51, 44]
+  - Entity: 266
+    TransformComponent:
+      Position: [576, -278]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 272
+    TransformComponent:
+      Position: [448, -533]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 273
+    TransformComponent:
+      Position: [576, -661]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 274
+    TransformComponent:
+      Position: [576, -534]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 275
+    TransformComponent:
+      Position: [448, -661]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 319
+    TransformComponent:
+      Position: [1345, -1038]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 129
+      SourceRectRight: 256
+      SourceRectBottom: 255
+      SourceRectLeft: 128
+      Origin: [64, 63]
+    EnvironmentTag:
+      {}
+  - Entity: 276
+    TransformComponent:
+      Position: [448, -789]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 318
+    TransformComponent:
+      Position: [1218, -1038]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 129
+      SourceRectRight: 255
+      SourceRectBottom: 255
+      SourceRectLeft: 129
+      Origin: [63, 63]
+    EnvironmentTag:
+      {}
+  - Entity: 277
+    TransformComponent:
+      Position: [576, -789]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 280
+    TransformComponent:
+      Position: [1089, -789]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 339
+    TransformComponent:
+      Position: [1194, -425]
+      Scale: [1, 1]
+      RotationRadians: 0
+    EnemySpawnerComponent:
+      RelativePosition: [0, 0]
+      EnemyType: 0
+      SpawnCount: 1
+      SpawnInterval: 0
+  - Entity: 281
+    TransformComponent:
+      Position: [961, -789]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 282
+    TransformComponent:
+      Position: [961, -661]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 283
+    TransformComponent:
+      Position: [1089, -661]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 284
+    TransformComponent:
+      Position: [1217, -661]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 285
+    TransformComponent:
+      Position: [1345, -661]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 128
+      SourceRectRight: 256
+      SourceRectBottom: 256
+      SourceRectLeft: 128
+      Origin: [64, 64]
+    EnvironmentTag:
+      {}
+  - Entity: 286
+    TransformComponent:
+      Position: [1007, -341]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 676
+      SourceRectRight: 85
+      SourceRectBottom: 723
+      SourceRectLeft: 0
+      Origin: [42.5, 23.5]
+  - Entity: 287
+    TransformComponent:
+      Position: [1062, -328]
+      Scale: [0.600000024, 0.600000024]
+      RotationRadians: 0.663225055
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 676
+      SourceRectRight: 85
+      SourceRectBottom: 723
+      SourceRectLeft: 0
+      Origin: [42.5, 23.5]
+  - Entity: 330
+    TransformComponent:
+      Position: [1260, -1629]
+      Scale: [0.699999988, 0.49000001]
+      RotationRadians: 0.0872664303
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.680000007
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 415
+      SourceRectRight: 724
+      SourceRectBottom: 478
+      SourceRectLeft: 678
+      Origin: [23, 31.5]
+  - Entity: 288
+    TransformComponent:
+      Position: [1074, -602]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.800000012
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 414
+      SourceRectRight: 79
+      SourceRectBottom: 479
+      SourceRectLeft: 0
+      Origin: [39.5, 32.5]
+    EnvironmentTag:
+      {}
+  - Entity: 331
+    TransformComponent:
+      Position: [1114, -2195]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.680000007
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 777
+      SourceRectRight: 755
+      SourceRectBottom: 886
+      SourceRectLeft: 652
+      Origin: [51.5, 54.5]
+  - Entity: 289
+    TransformComponent:
+      Position: [1110, -594]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.699999988
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 414
+      SourceRectRight: 79
+      SourceRectBottom: 479
+      SourceRectLeft: 0
+      Origin: [39.5, 32.5]
+    EnvironmentTag:
+      {}
+  - Entity: 328
+    TransformComponent:
+      Position: [1237, -1652]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.699999988
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 415
+      SourceRectRight: 724
+      SourceRectBottom: 478
+      SourceRectLeft: 678
+      Origin: [23, 31.5]
+  - Entity: 290
+    TransformComponent:
+      Position: [1075, -561]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.800000012
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 400
+      SourceRectRight: 234
+      SourceRectBottom: 493
+      SourceRectLeft: 151
+      Origin: [41.5, 46.5]
+    EnvironmentTag:
+      {}
+  - Entity: 329
+    TransformComponent:
+      Position: [1217, -1637]
+      Scale: [0.699999988, 1]
+      RotationRadians: -0.104719758
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.689999998
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 415
+      SourceRectRight: 724
+      SourceRectBottom: 478
+      SourceRectLeft: 678
+      Origin: [23, 31.5]
+  - Entity: 291
+    TransformComponent:
+      Position: [1043, -313]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.600000024
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 422
+      SourceRectRight: 737
+      SourceRectBottom: 471
+      SourceRectLeft: 671
+      Origin: [33, 24.5]
+    EnvironmentTag:
+      {}
+  - Entity: 292
+    TransformComponent:
+      Position: [699, -797]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [0.709999979, 0.75, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 540
+      SourceRectRight: 1635
+      SourceRectBottom: 627
+      SourceRectLeft: 1564
+      Origin: [35.5, 43.5]
+    EnvironmentTag:
+      {}
+  - Entity: 293
+    TransformComponent:
+      Position: [963, -548]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 456
+      SourceRectRight: 593
+      SourceRectBottom: 502
+      SourceRectLeft: 557
+      Origin: [18, 23]
+    EnvironmentTag:
+      {}
+  - Entity: 294
+    TransformComponent:
+      Position: [634, -1114]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 0
+      SourceRectRight: 607
+      SourceRectBottom: 128
+      SourceRectLeft: 543
+      Origin: [32, 64]
+  - Entity: 295
+    TransformComponent:
+      Position: [996, -501]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 456
+      SourceRectRight: 593
+      SourceRectBottom: 502
+      SourceRectLeft: 557
+      Origin: [18, 23]
+    EnvironmentTag:
+      {}
+  - Entity: 296
+    TransformComponent:
+      Position: [629, -1003]
+      Scale: [1, 1]
+      RotationRadians: 1.57079637
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 148
+      SourceRectRight: 868
+      SourceRectBottom: 242
+      SourceRectLeft: 769
+      Origin: [49.5, 47]
+  - Entity: 297
+    TransformComponent:
+      Position: [634, -1241]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 0
+      SourceRectRight: 607
+      SourceRectBottom: 128
+      SourceRectLeft: 543
+      Origin: [32, 64]
+  - Entity: 320
+    TransformComponent:
+      Position: [1345, -913]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2_no_alpha.dds
+      SourceRectTop: 129
+      SourceRectRight: 256
+      SourceRectBottom: 255
+      SourceRectLeft: 128
+      Origin: [64, 63]
+    EnvironmentTag:
+      {}
+  - Entity: 298
+    TransformComponent:
+      Position: [634, -1368]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 0
+      SourceRectRight: 607
+      SourceRectBottom: 128
+      SourceRectLeft: 543
+      Origin: [32, 64]
+  - Entity: 321
+    TransformComponent:
+      Position: [1370, -1151]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 391
+      SourceRectRight: 217
+      SourceRectBottom: 513
+      SourceRectLeft: 168
+      Origin: [24.5, 61]
+    EnvironmentTag:
+      {}
+  - Entity: 299
+    TransformComponent:
+      Position: [627, -1483]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 171
+      SourceRectRight: 607
+      SourceRectBottom: 277
+      SourceRectLeft: 543
+      Origin: [32, 53]
+  - Entity: 300
+    TransformComponent:
+      Position: [688, -1531]
+      Scale: [1, 1]
+      RotationRadians: 3.12412024
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 171
+      SourceRectRight: 607
+      SourceRectBottom: 277
+      SourceRectLeft: 543
+      Origin: [32, 53]
+  - Entity: 301
+    TransformComponent:
+      Position: [678, -1647]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 0
+      SourceRectRight: 607
+      SourceRectBottom: 128
+      SourceRectLeft: 543
+      Origin: [32, 64]
+  - Entity: 302
+    TransformComponent:
+      Position: [678, -1775]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 0
+      SourceRectRight: 607
+      SourceRectBottom: 128
+      SourceRectLeft: 543
+      Origin: [32, 64]
+  - Entity: 303
+    TransformComponent:
+      Position: [662, -1870]
+      Scale: [1, 1]
+      RotationRadians: 1.57079637
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 170
+      SourceRectRight: 607
+      SourceRectBottom: 266
+      SourceRectLeft: 543
+      Origin: [32, 48]
+  - Entity: 304
+    TransformComponent:
+      Position: [554, -1882]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 256
+      SourceRectRight: 2177
+      SourceRectBottom: 392
+      SourceRectLeft: 2050
+      Origin: [63.5, 68]
+    EnvironmentTag:
+      {}
+  - Entity: 305
+    TransformComponent:
+      Position: [554, -2021]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.850000024
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 256
+      SourceRectRight: 1922
+      SourceRectBottom: 392
+      SourceRectLeft: 1785
+      Origin: [68.5, 68]
+    EnvironmentTag:
+      {}
+  - Entity: 306
+    TransformComponent:
+      Position: [554, -2106]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 256
+      SourceRectRight: 1922
+      SourceRectBottom: 392
+      SourceRectLeft: 1785
+      Origin: [68.5, 68]
+    EnvironmentTag:
+      {}
+  - Entity: 307
+    TransformComponent:
+      Position: [696, -2190]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.910000026
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 256
+      SourceRectRight: 1922
+      SourceRectBottom: 392
+      SourceRectLeft: 1785
+      Origin: [68.5, 68]
+    EnvironmentTag:
+      {}
+  - Entity: 308
+    TransformComponent:
+      Position: [554, -2190]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.920000017
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 256
+      SourceRectRight: 1922
+      SourceRectBottom: 392
+      SourceRectLeft: 1785
+      Origin: [68.5, 68]
+    EnvironmentTag:
+      {}
+  - Entity: 309
+    TransformComponent:
+      Position: [698, -2103]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.904999971
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 256
+      SourceRectRight: 1922
+      SourceRectBottom: 392
+      SourceRectLeft: 1785
+      Origin: [68.5, 68]
+    EnvironmentTag:
+      {}
+  - Entity: 322
+    TransformComponent:
+      Position: [1179, -1178]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 391
+      SourceRectRight: 217
+      SourceRectBottom: 513
+      SourceRectLeft: 168
+      Origin: [24.5, 61]
+    EnvironmentTag:
+      {}
+  - Entity: 323
+    TransformComponent:
+      Position: [1272, -1216]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 391
+      SourceRectRight: 217
+      SourceRectBottom: 513
+      SourceRectLeft: 168
+      Origin: [24.5, 61]
+    EnvironmentTag:
+      {}
+  - Entity: 324
+    TransformComponent:
+      Position: [1216, -1147]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 391
+      SourceRectRight: 217
+      SourceRectBottom: 513
+      SourceRectLeft: 168
+      Origin: [24.5, 61]
+    EnvironmentTag:
+      {}
+  - Entity: 325
+    TransformComponent:
+      Position: [1223, -1688]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 673
+      SourceRectRight: 223
+      SourceRectBottom: 736
+      SourceRectLeft: 156
+      Origin: [33.5, 31.5]
+  - Entity: 326
+    TransformComponent:
+      Position: [1185, -1641]
+      Scale: [0.529999971, 0.569999993]
+      RotationRadians: 0.209456891
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 673
+      SourceRectRight: 223
+      SourceRectBottom: 736
+      SourceRectLeft: 156
+      Origin: [33.5, 31.5]
+  - Entity: 327
+    TransformComponent:
+      Position: [1289, -1641]
+      Scale: [0.529999971, 0.569999993]
+      RotationRadians: -0.122155465
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 673
+      SourceRectRight: 223
+      SourceRectBottom: 736
+      SourceRectLeft: 156
+      Origin: [33.5, 31.5]
+  - Entity: 332
+    TransformComponent:
+      Position: [872, -2532]
+      Scale: [0.720000029, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.680000007
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 777
+      SourceRectRight: 755
+      SourceRectBottom: 886
+      SourceRectLeft: 652
+      Origin: [51.5, 54.5]
+  - Entity: 333
+    TransformComponent:
+      Position: [854, -2461]
+      Scale: [0.5, 0.5]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 1579
+      SourceRectRight: 85
+      SourceRectBottom: 1643
+      SourceRectLeft: 42
+      Origin: [21.5, 32]
+  - Entity: 334
+    TransformComponent:
+      Position: [911, -2487]
+      Scale: [0.5, 0.5]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 1579
+      SourceRectRight: 85
+      SourceRectBottom: 1643
+      SourceRectLeft: 42
+      Origin: [21.5, 32]
+  - Entity: 335
+    TransformComponent:
+      Position: [540, -2680]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 1551
+      SourceRectRight: 369
+      SourceRectBottom: 1643
+      SourceRectLeft: 262
+      Origin: [53.5, 46]
+  - Entity: 336
+    TransformComponent:
+      Position: [1220, -2804]
+      Scale: [0.699999988, 0.5]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 1551
+      SourceRectRight: 369
+      SourceRectBottom: 1643
+      SourceRectLeft: 262
+      Origin: [53.5, 46]
+  - Entity: 337
+    TransformComponent:
+      Position: [1202, -2585]
+      Scale: [1, 1]
+      RotationRadians: 0
+    SpriteComponent:
+      RelativePosition: [0, 0]
+      RelativeRotationRadians: 0
+      RelativeScale: [1, 1]
+      Colour: [1, 1, 1, 1]
+      ZOrder: 0.899999976
+      Texture: Assets\scifi_tilesheet@2.dds
+      SourceRectTop: 1691
+      SourceRectRight: 605
+      SourceRectBottom: 1791
+      SourceRectLeft: 503
+      Origin: [51, 50]
+  - Entity: 340
+    TransformComponent:
+      Position: [569, -1834]
+      Scale: [1, 1]
+      RotationRadians: 0
+    EnemySpawnerComponent:
+      RelativePosition: [0, 0]
+      EnemyType: 1
+      SpawnCount: 2
+      SpawnInterval: 0.25
+  - Entity: 341
+    TransformComponent:
+      Position: [568, -2190]
+      Scale: [1, 1]
+      RotationRadians: 0
+    EnemySpawnerComponent:
+      RelativePosition: [0, 0]
+      EnemyType: 1
+      SpawnCount: 2
+      SpawnInterval: 0.200000003
+  - Entity: 342
+    TransformComponent:
+      Position: [1214, -2786]
+      Scale: [1, 1]
+      RotationRadians: 0
+    EnemySpawnerComponent:
+      RelativePosition: [0, 0]
+      EnemyType: 1
+      SpawnCount: 3
+      SpawnInterval: 0.200000003
+  - Entity: 343
+    TransformComponent:
+      Position: [673, -2786]
+      Scale: [1, 1]
+      RotationRadians: 0
+    EnemySpawnerComponent:
+      RelativePosition: [0, 0]
+      EnemyType: 1
+      SpawnCount: 1
+      SpawnInterval: 0.200000003
+  - Entity: 344
+    TransformComponent:
+      Position: [1269, -1943]
+      Scale: [1, 1]
+      RotationRadians: 0
+    EnemySpawnerComponent:
+      RelativePosition: [0, 0]
+      EnemyType: 0
+      SpawnCount: 1
+      SpawnInterval: 0

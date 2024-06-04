@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{9db82158-1211-40c1-b6a8-b336b89a72d2}</ProjectGuid>
+    <RootNamespace>Game</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+    <IncludePath>$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)\Game;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+    <IncludePath>$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+    <IncludePath>$(SolutionDir)Game;$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+    <IncludePath>$(SolutionDir)\Game;$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);ENABLE_IMGUI</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)Assets"  "$(TargetDir)Assets\" /E /Y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)Assets"  "$(TargetDir)Assets\" /E /Y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions);ENABLE_IMGUI</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)Assets"  "$(TargetDir)Assets\" /E /Y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)Assets"  "$(TargetDir)Assets\" /E /Y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Scarle2020\Scarle2020.vcxproj">
+      <Project>{328a4a72-de75-44e0-bc99-4644f79da75f}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EnemySpawnerSystem.h" />
+    <ClInclude Include="EntityFactory.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="PowerUpSystem.h" />
+    <ClInclude Include="States\PauseMenu.h" />
+    <ClInclude Include="SWIVPlayer.h" />
+    <ClInclude Include="States\InControls.h" />
+    <ClInclude Include="States\InGame.h" />
+    <ClInclude Include="States\State.h" />
+    <ClInclude Include="States\ExampleState.h" />
+    <ClInclude Include="States\InMenu.h" />
+    <ClInclude Include="GameRenderer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EnemySpawnerSystem.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="PowerUpSystem.cpp" />
+    <ClCompile Include="States\GameState.cpp" />
+    <ClCompile Include="States\PauseMenu.cpp" />
+    <ClCompile Include="SWIVPlayer.cpp" />
+    <ClCompile Include="States\ExampleState.cpp" />
+    <ClCompile Include="States\InControls.cpp" />
+    <ClCompile Include="States\InGame.cpp" />
+    <ClCompile Include="States\InMenu.cpp" />
+    <ClCompile Include="GameRenderer.cpp" />
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\1and2player.dds" />
+    <Image Include="Assets\1player.dds" />
+    <Image Include="Assets\2player.dds" />
+    <Image Include="Assets\back.dds" />
+    <Image Include="Assets\controls.dds" />
+    <Image Include="Assets\dot.dds" />
+    <Image Include="Assets\enemyBlack1.dds" />
+    <Image Include="Assets\exit.dds" />
+    <Image Include="Assets\grass.dds" />
+    <Image Include="Assets\key_selector.dds" />
+    <Image Include="Assets\laserRed01.dds" />
+    <Image Include="Assets\laserRed02.dds" />
+    <Image Include="Assets\logo_small.dds" />
+    <Image Include="Assets\p1_back.dds" />
+    <Image Include="Assets\p1_down.dds" />
+    <Image Include="Assets\p1_fire.dds" />
+    <Image Include="Assets\p1_left.dds" />
+    <Image Include="Assets\p1_powerup.dds" />
+    <Image Include="Assets\p1_right.dds" />
+    <Image Include="Assets\p1_select.dds" />
+    <Image Include="Assets\p1_up.dds" />
+    <Image Include="Assets\p2_back.dds" />
+    <Image Include="Assets\p2_down.dds" />
+    <Image Include="Assets\p2_fire.dds" />
+    <Image Include="Assets\p2_left.dds" />
+    <Image Include="Assets\p2_powerup.dds" />
+    <Image Include="Assets\p2_right.dds" />
+    <Image Include="Assets\p2_select.dds" />
+    <Image Include="Assets\p2_up.dds" />
+    <Image Include="Assets\playerShip.dds" />
+    <Image Include="Assets\playerShip2.dds" />
+    <Image Include="Assets\scifi_tilesheet%402.dds" />
+    <Image Include="Assets\select.dds" />
+    <Image Include="Assets\start.dds" />
+    <Image Include="Assets\test_bullet.dds" />
+    <Image Include="Assets\test_player.dds" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\arial.spritefont" />
+    <None Include="Assets\Beta_Level.LEVEL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Assets\laserSmall_002.wav" />
+    <Media Include="Assets\laserSmall_003.wav" />
+    <Media Include="Assets\level1.wav" />
+    <Media Include="Assets\ship_explosion.wav" />
+    <Media Include="Assets\start_menu.wav" />
+    <Media Include="Assets\ui_browse.wav" />
+    <Media Include="Assets\ui_confirm.wav" />
+    <Media Include="Assets\Wilhelm.wav" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

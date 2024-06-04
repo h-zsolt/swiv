@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{2de84047-92c3-41ac-82cc-f4c33a67353e}</ProjectGuid>
+    <RootNamespace>Editor</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Tex;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Tex\Bin\Desktop_2019_Win10\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Tex;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Tex\Bin\Desktop_2019_Win10\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(SolutionDir)Game;$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Tex;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Tex\Bin\Desktop_2019_Win10\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(SolutionDir)Game;$(SolutionDir)Scarle2020\ThirdParty;$(SolutionDir)\DirectXTK-master\Tex;$(SolutionDir)\DirectXTK-master\Inc;$(SolutionDir)Scarle2020\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Scarle2020\ThirdParty\yaml-cpp;$(SolutionDir)\DirectXTK-master\Tex\Bin\Desktop_2019_Win10\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Audio\Bin\Desktop_2019\$(Platform)\$(Configuration);$(SolutionDir)\DirectXTK-master\Bin\Desktop_2019\$(Platform)\$(Configuration);$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)build\$(ProjectName)\bin\$(Configuration)-$(Platform)\</OutDir>
+    <IntDir>$(SolutionDir)build\$(ProjectName)\int\$(Configuration)-$(Platform)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>
+      </SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DirectXTK-master\Tex\DirectXTex_Desktop_2019_Win10.vcxproj">
+      <Project>{371b9fa9-4c90-4ac6-a123-aced756d6c77}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Scarle2020\Scarle2020.vcxproj">
+      <Project>{328a4a72-de75-44e0-bc99-4644f79da75f}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Widgets\CreateTilemapMenu.cpp" />
+    <ClCompile Include="Widgets\DetailsPanel.cpp" />
+    <ClCompile Include="Editor.cpp" />
+    <ClCompile Include="EditorRenderer.cpp" />
+    <ClCompile Include="EditorSettings.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Widgets\SceneOutliner.cpp" />
+    <ClCompile Include="Assets\Texture.cpp" />
+    <ClCompile Include="Assets\Tilemap.cpp" />
+    <ClCompile Include="Widgets\TitleBar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Widgets\CreateTilemapMenu.h" />
+    <ClInclude Include="Widgets\DetailsPanel.h" />
+    <ClInclude Include="Editor.h" />
+    <ClInclude Include="EditorRenderer.h" />
+    <ClInclude Include="EditorSettings.h" />
+    <ClInclude Include="Widgets\SceneOutliner.h" />
+    <ClInclude Include="stb_image.h" />
+    <ClInclude Include="Assets\Texture.h" />
+    <ClInclude Include="Assets\Tilemap.h" />
+    <ClInclude Include="Assets\TilemapCreationInfo.h" />
+    <ClInclude Include="Widgets\TitleBar.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

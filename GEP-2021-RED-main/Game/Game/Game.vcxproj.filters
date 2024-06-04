@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="States\ExampleState.cpp" />
+    <ClCompile Include="States\InMenu.cpp" />
+    <ClCompile Include="GameRenderer.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="States\InGame.cpp" />
+    <ClCompile Include="States\InControls.cpp" />
+    <ClCompile Include="States\GameState.cpp" />
+    <ClCompile Include="SWIVPlayer.cpp" />
+    <ClCompile Include="States\PauseMenu.cpp" />
+    <ClCompile Include="EnemySpawnerSystem.cpp" />
+    <ClCompile Include="PowerUpSystem.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EntityFactory.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="States\State.h" />
+    <ClInclude Include="States\ExampleState.h" />
+    <ClInclude Include="States\InMenu.h" />
+    <ClInclude Include="GameRenderer.h" />
+    <ClInclude Include="States\InGame.h" />
+    <ClInclude Include="States\InControls.h" />
+    <ClInclude Include="SWIVPlayer.h" />
+    <ClInclude Include="States\PauseMenu.h" />
+    <ClInclude Include="EnemySpawnerSystem.h" />
+    <ClInclude Include="PowerUpSystem.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\1and2player.dds" />
+    <Image Include="Assets\1player.dds" />
+    <Image Include="Assets\2player.dds" />
+    <Image Include="Assets\back.dds" />
+    <Image Include="Assets\controls.dds" />
+    <Image Include="Assets\enemyBlack1.dds" />
+    <Image Include="Assets\exit.dds" />
+    <Image Include="Assets\grass.dds" />
+    <Image Include="Assets\key_selector.dds" />
+    <Image Include="Assets\laserRed01.dds" />
+    <Image Include="Assets\laserRed02.dds" />
+    <Image Include="Assets\logo_small.dds" />
+    <Image Include="Assets\p1_back.dds" />
+    <Image Include="Assets\p1_down.dds" />
+    <Image Include="Assets\p1_fire.dds" />
+    <Image Include="Assets\p1_left.dds" />
+    <Image Include="Assets\p1_powerup.dds" />
+    <Image Include="Assets\p1_right.dds" />
+    <Image Include="Assets\p1_select.dds" />
+    <Image Include="Assets\p1_up.dds" />
+    <Image Include="Assets\p2_back.dds" />
+    <Image Include="Assets\p2_down.dds" />
+    <Image Include="Assets\p2_fire.dds" />
+    <Image Include="Assets\p2_left.dds" />
+    <Image Include="Assets\p2_powerup.dds" />
+    <Image Include="Assets\p2_right.dds" />
+    <Image Include="Assets\p2_select.dds" />
+    <Image Include="Assets\p2_up.dds" />
+    <Image Include="Assets\playerShip.dds" />
+    <Image Include="Assets\playerShip2.dds" />
+    <Image Include="Assets\scifi_tilesheet%402.dds" />
+    <Image Include="Assets\select.dds" />
+    <Image Include="Assets\start.dds" />
+    <Image Include="Assets\test_bullet.dds" />
+    <Image Include="Assets\test_player.dds" />
+    <Image Include="Assets\dot.dds" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\arial.spritefont" />
+    <None Include="Assets\Beta_Level.LEVEL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Assets\laserSmall_002.wav" />
+    <Media Include="Assets\laserSmall_003.wav" />
+    <Media Include="Assets\level1.wav" />
+    <Media Include="Assets\ship_explosion.wav" />
+    <Media Include="Assets\start_menu.wav" />
+    <Media Include="Assets\ui_browse.wav" />
+    <Media Include="Assets\ui_confirm.wav" />
+    <Media Include="Assets\Wilhelm.wav" />
+  </ItemGroup>
+</Project>
